@@ -134,10 +134,14 @@ padding-top: 0.85rem;
     padding-top: 0.1875rem;
 
 }
-#sp3{
+#sp3 a{
     font-size: 0.9rem;
     color: #ffffff;
     font-weight: 600;
+}
+
+#sp3 a:hover{
+    text-decoration: none;
 }
 
 .nav-account select{
