@@ -1,0 +1,221 @@
+<!-- hero section -->
+
+<div class="hero-section">
+    <!-- sector of 4 images -->
+    <div class="imges4">
+        <h2>Gaming accessories</h2><br>
+        <div class="img1 a" style="background-image: url('\(104\).jpg');"></div>
+        <div class="img1 b" style="background-image: url('\(105\).jpg');"></div>
+        <div class="img1 c" style="background-image: url('\(106\).jpg');
+        background-size: cover;"></div>
+        <div class="img1 d" style="background-image: url('\(101\).jpg');
+        background-size: cover;"></div>
+        <a href="#">Show more</a>
+    </div>
+
+    
+    <!-- sector of one image -->
+    <div class="one-img">
+        <h2>Electronics</h2>
+        <div class="single-img" style="background-image: url('\(94\).jpg');
+        background-size: cover;">
+        </div>
+        <a href="#">Show more</a>
+    </div>
+
+    <div class="one-img">
+        <h2>Top Under $30</h2>
+        <div class="single-img single" style="background-image: url('\(110\).jpg');
+        background-size: cover;">
+        </div>
+        <a href="#">Show more</a>
+    </div>
+
+
+    <div class="sign-in-outer">
+        
+        <div class="sign-in">
+            <span id="sp10">Sign in for best experience</span> <br><br>
+           <a href="#"><button>Sign in securely</button></a>
+        </div>
+        <div  class="image-sign-in"></div>
+    </div>
+</div>
+
+    <main>
+    <section class="sec1">
+            <!-- sector of one image -->
+    <div class="one-img alter-margin-col-1">
+        <h2>Home & Kitchen Under $30</h2>
+        <div class="single-img alter-margin-col-1" style="background-image: url('\(111\).jpg');
+        background-size: cover;">
+        </div>
+        <a href="#">Show more</a>
+    </div>
+
+
+        <!-- sector of one image -->
+        <div class="one-img alter-margin-row-1 ">
+            <h2>Health & Personal Care</h2>
+            <div class="single-img alter-margin-row-1" style="background-image: url('\(108\).jpg');
+            background-size: cover;">
+            </div>
+            <a href="#">Show more</a>
+        </div>
+
+        
+
+        <!-- sector of one image -->
+        <div class="one-img alter-margin-row-1">
+            <h2>Beauty picks</h2>
+            <div class="single-img alter-margin-row-1" style="background-image: url('\(93\).jpg');
+            background-size: cover;">
+            </div>
+            <a href="#">Show more</a>
+        </div>
+    
+
+            <!-- sector of 4 images -->
+    <div class="imges4 alter-margin-row-1">
+        <h2>Shop deals in Fashion</h2><br>
+        <div class="img1 a " style="background-image: url('\(88\).jpg');"></div>
+        <div class="img1 b " style="background-image: url('\(91\).jpg');"></div>
+        <div class="img1 c " style="background-image: url('\(89\).jpg');
+        background-size: cover;"></div>
+        <div class="img1 d " style="background-image: url('\(90\).jpg');
+        background-size: cover;"></div>
+        <a href="#">Show more</a>
+    </div>
+    </section>
+            
+
+
+          <section id="sec2">
+            <!-- sector of one image -->
+<div class="one-img alter-margin-col-1">
+ <h2>New arrivals in Toys</h2>
+ <div class="single-img alter-margin" style="background-image: url('\(87\).jpg');
+ background-size: cover;">
+ </div>
+ <a href="#">Show more</a>
+</div>
+
+
+ <!-- sector of one image -->
+ <div class="one-img alter-margin-row-1 ">
+     <h2>Discover fashion trends</h2>
+     <div class="single-img alter-margin-row-1" style="background-image: url(123.jpg);
+     background-size: cover;">
+     </div>
+     <a href="#">Show more</a>
+ </div>
+
+ 
+
+ <!-- sector of one image -->
+ <div class="one-img alter-margin-row-1">
+        <h2>For your Fitness Needs</h2>
+     <div class="single-img alter-margin-row-1" style="background-image: url('\(95\).jpg');
+     background-size: cover;">
+     </div>
+     <a href="#">Show more</a>
+ </div>
+
+ 
+ <!-- sector of one image -->
+ <div class="one-img alter-margin-row-1">
+         <h2>Home refresh ideas</h2>
+          <div class="single-img alter-margin-row-1" style="background-image: url('\(113\).jpg');
+         background-size: cover;">                </div>
+        <a href="#">Show more</a>
+ </div><br>
+ 
+</section>
+
+
+<section id="sec2">
+    <!-- sector of one image -->
+<div class="one-img alter-margin-col-1">
+<h2>Frequently repurchased</h2>
+<div class="single-img alter-margin" style="background-image: url('\(15\).jpg');
+background-size: cover;">
+</div>
+<a href="#">Show more</a>
+</div>
+
+
+<!-- sector of one image -->
+<div class="one-img alter-margin-row-1 ">
+<h2>Shop Laptops & Tablets</h2>
+<div class="single-img alter-margin-row-1" style="background-image: url('\(96\).jpg');
+background-size: cover;">
+</div>
+<a href="#">Show more</a>
+</div>
+
+
+
+<!-- sector of one image -->
+<div class="one-img alter-margin-row-1">
+<h2>Shop trackers and watches</h2>
+<div class="single-img alter-margin-row-1" style="background-image: url('\(98\).jpg');
+background-size: cover;">
+</div>
+<a href="#">Show more</a>
+</div>
+
+
+<!-- sector of one image -->
+<div class="one-img alter-margin-row-1">
+ <h2>Create with strip lights</h2>
+  <div class="single-img alter-margin-row-1" style="background-image: url('\(99\).jpg');
+ background-size: cover;">                </div>
+<a href="#">Show more</a>
+</div>
+<br>
+
+</section>
+
+<section id="sec2">
+    <!-- sector of one image -->
+    <div class="one-img alter-margin-col-1">
+        <h2>Kindle E readers</h2>
+        <div class="single-img alter-margin-row-1" style="background-image: url('139.jpg');
+        background-size: cover;">                </div>
+        <a href="#">Show more</a>
+   </div>
+
+
+   <div class="imges4 alter-margin-col-1">
+    <h2>Gaming merchandise</h2><br>
+    <div class="img1 a " style="background-image: url('\(100\).jpg');"></div>
+    <div class="img1 b " style="background-image: url('\(103\).jpg');"></div>
+    <div class="img1 c " style="background-image: url('\(102\).jpg');
+    background-size: cover;"></div>
+    <div class="img1 d " style="background-image: url('\(107\).jpg');
+    background-size: cover;"></div>
+    <a href="#">Show more</a>
+</div>
+
+
+
+<!-- sector of one image -->
+<div class="one-img alter-margin-row-1">
+    <h2>Deals in Tools </h2>
+     <div class="single-img alter-margin-row-1" style="background-image: url('\(112\).jpg');
+    background-size: cover;">                </div>
+   <a href="#">Show more</a>
+   </div>
+
+
+
+   
+<!-- sector of one image -->
+<div class="one-img alter-margin-row-1">
+    <h2>Shop Pet supplies</h2>
+     <div class="single-img alter-margin-row-1" style="background-image: url('\(97\).jpg');
+    background-size: cover;">                </div>
+   <a href="#">Show more</a>
+   </div>
+</section>
+</main>
